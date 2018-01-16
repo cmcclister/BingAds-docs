@@ -83,12 +83,34 @@
     href: ./reference/CampaignSelector
   - name: CampaignUrls
     href: ./reference/CampaignUrls
+  - name: ChartOptions
+    href: ./reference/ChartOptions
+  - name: ContainerInfo
+    href: ./reference/ContainerInfo
+  - name: DataValidation
+    href: ./reference/DataValidation
+  - name: DataValidationBuilder
+    href: ./reference/DataValidationBuilder
+  - name: DriveApp
+    href: ./reference/DriveApp
+  - name: EmbeddedChart
+    href: ./reference/EmbeddedChart
+  - name: EmbeddedChartBuilder
+    href: ./reference/EmbeddedChartBuilder    
   - name: ExecutionInfo
     href: ./reference/ExecutionInfo
   - name: ExpandedTextAd
     href: ./reference/ExpandedTextAd
   - name: ExpandedTextAdBuilder
     href: ./reference/ExpandedTextAdBuilder
+  - name: File
+    href: ./reference/File
+  - name: FileIterator
+    href: ./reference/FileIterator
+  - name: Folder
+    href: ./reference/Folder
+  - name: FolderIterator
+    href: ./reference/FolderIterator
   - name: HTTPResponse
     href: ./reference/HTTPResponse
   - name: Keyword
@@ -105,6 +127,14 @@
     href: ./reference/KeywordUrls
   - name: Logger
     href: ./reference/Logger
+  - name: Range
+    href: ./reference/Range
+  - name: Sheet
+    href: ./reference/Sheet
+  - name: Spreadsheet
+    href: ./reference/Spreadsheet
+  - name: SpreadsheetApp
+    href: ./reference/SpreadsheetApp    
   - name: Stats
     href: ./reference/Stats
   - name: UrlFetchApp
