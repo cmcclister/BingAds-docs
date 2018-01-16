@@ -13,6 +13,14 @@
   items:
   - name: Account
     href: ./reference/Account
+  - name: AccountLabel
+    href: ./reference/AccountLabel
+  - name: AccountLabelIterator
+    href: ./reference/AccountLabelIterator
+  - name: AccountLabelSelector
+    href: ./reference/AccountLabelSelector
+  - name: AccountsApp
+    href: ./reference/AccountsApp
   - name: Ad
     href: ./reference/Ad
   - name: AdBuilderSpace
@@ -51,6 +59,14 @@
     href: ./reference/AdUrls
   - name: AdViewSpace
     href: ./reference/AdViewSpace
+  - name: BingAdsAccount
+    href: ./reference/BingAdsAccount
+  - name: BingAdsAccountIterator
+    href: ./reference/BingAdsAccountIterator
+  - name: BingAdsAccountSelector
+    href: ./reference/BingAdsAccountSelector
+  - name: BingAdsAccountStats
+    href: ./reference/BingAdsAccountStats    
   - name: BingAdsApp
     href: ./reference/BingAdsApp
   - name: BingAdsDate
